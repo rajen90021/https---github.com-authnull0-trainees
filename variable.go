@@ -18,7 +18,7 @@ func main() {
 	var myvariable1 = 20
 	var myvariable2 = "trail "
 	var myvariable3 = 34.80
-	fmt.Printf("The value of myvariable1 is : %d\n", myvariable1)
+	fmt.Printf("The value of myvariable1 issss : %d\n", myvariable1)
 
 	fmt.Printf("The type of myvariable1 is : %T\n", myvariable1)
 
